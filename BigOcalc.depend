@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1654603068 source:c:\users\frknk\desktop\bigocalc\bigocalc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<locale.h>
+
